@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+input, button {outline: none;}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
